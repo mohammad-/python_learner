@@ -21,7 +21,6 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-*.txt
 
 # Installer logs
 pip-log.txt
@@ -53,3 +52,12 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+#Following text files are ignored
+day15/file1.txt
+day15/file2.txt
+day16/file.txt
+day17/f.txt
+day17/file.txt
+day17/file2.txt
+day17/x.txt
+day20/file.txt
