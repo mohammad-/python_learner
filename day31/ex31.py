@@ -26,3 +26,9 @@ print "following are odd numbers between 1~10"
 for i in list:
     print i
 
+#when we tried string.split it returned a list
+string = "Let's try string.split again..."
+parts = string.split(' ')
+for part in parts:
+    print part+",",
+
