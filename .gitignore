@@ -51,7 +51,7 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
-
+.idea
 #Following text files are ignored
 day15/file1.txt
 day15/file2.txt
